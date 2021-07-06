@@ -19,6 +19,7 @@ const handleError = (message: Message) => (e: Error) => {
 const wordsOfEncouragement = [
   `you dropped your crown, king: :crown:`,
   `you got this bro, I promise.`,
+  `don't talk about it, be about it.`,
   `you are quite a based individual.`,
 ];
 
